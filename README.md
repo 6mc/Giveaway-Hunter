@@ -26,6 +26,6 @@ Do Not Do this to your followers, while you spamming giveaways you can lose your
 
 [![N|Solid](https://i.hizliresim.com/ERlPXZ.png)](https://blank)
 
-# Warming 
+# Warning 
 you take your own  responsibility of losing followers or being suspended 
 
