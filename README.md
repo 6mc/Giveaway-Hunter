@@ -10,7 +10,7 @@ Giveaway Hunter is a python app that automatically Joins Giveaways on twitter fo
 # İnstallation
   - İnstall The  [TwitterBot](https://github.com/rhiever/TwitterFollowBot) Correctly
   - Configure Your Settings
-  - run start.bat
+  - run retweet.bat
 
 # Upcoming Features!
 
